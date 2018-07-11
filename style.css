@@ -1,0 +1,35 @@
+header{
+	font-size: 30px;
+	padding-bottom: 10px;
+}
+
+body{ 
+	font-family: Comic Sans MS;
+	background-color: #00BFFF;
+}
+main{
+	padding: 50px 50px;
+}
+aside{
+	text-align: right;
+	float: right;
+}
+h2 {
+	font-size: 50px;
+	font-weight: 70px;
+	padding-top: 10px;
+}
+img {
+	padding: 50px 50px;
+	border: dotted;
+	transform-origin: left top;
+}
+a {
+	color: #F7FE2E;
+}
+a:hover {
+	color: #F7FE2E;
+}
+.footer-logo{
+	font-size: 30px;
+}
